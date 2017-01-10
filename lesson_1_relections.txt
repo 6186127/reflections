@@ -1,0 +1,2 @@
+git add    to add commit  
+git status   to view the all dou
